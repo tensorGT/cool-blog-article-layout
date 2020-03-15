@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Merriweather', Georgia, serif;
+  background-color: #fbf9f5;
+  color: #24201c;
+  /* clamp() is pretty new, testing it out for body font size */
+  font-size: clamp(1rem, 0.95rem + 0.3vw, 1.15rem);
+  line-height: 1.75;
+}
+
