@@ -17,3 +17,13 @@ body {
   line-height: 1.75;
 }
 
+.site-top {
+  border-bottom: 1px solid #e6dfd5;
+  background-color: #fbf9f5;
+  font-family: 'Inter', sans-serif;
+}
+
+.top-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 14px 20px;
