@@ -47,3 +47,13 @@ body {
 }
 
 /* hero header */
+.article-hero {
+  max-width: 780px;
+  margin: 0 auto 52px;
+  text-align: center;
+}
+
+.kicker {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
