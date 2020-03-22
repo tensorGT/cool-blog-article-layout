@@ -57,3 +57,12 @@ body {
   font-family: 'Inter', sans-serif;
   font-size: 0.8rem;
   font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+  color: #b45309;
+  margin-bottom: 12px;
+}
+
+.article-hero h1 {
+  font-size: clamp(1.9rem, 1.3rem + 2.6vw, 3.1rem);
+  line-height: 1.18;
