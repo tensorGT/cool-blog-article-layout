@@ -76,3 +76,13 @@ body {
   color: #574f46;
   line-height: 1.55;
   margin-bottom: 20px;
+}
+
+.byline {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.88rem;
+  color: #786e63;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
