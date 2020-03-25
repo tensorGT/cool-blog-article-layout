@@ -86,3 +86,13 @@ body {
   justify-content: center;
   flex-wrap: wrap;
   gap: 8px;
+}
+
+/* 2 column layout: sticky TOC + article */
+.article-layout {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 48px;
+  align-items: start;
+}
+
