@@ -96,3 +96,13 @@ body {
   align-items: start;
 }
 
+.toc-sidebar {
+  position: sticky;
+  top: 28px;
+  font-family: 'Inter', sans-serif;
+}
+
+.toc-box {
+  background-color: #f3efe8;
+  border-left: 3px solid #b45309;
+  padding: 18px 20px;
