@@ -106,3 +106,13 @@ body {
   background-color: #f3efe8;
   border-left: 3px solid #b45309;
   padding: 18px 20px;
+  border-radius: 0 8px 8px 0;
+}
+
+.toc-box h2 {
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #574f46;
+  margin-bottom: 12px;
+}
