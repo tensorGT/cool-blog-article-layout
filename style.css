@@ -116,3 +116,12 @@ body {
   color: #574f46;
   margin-bottom: 12px;
 }
+
+.toc-box ol {
+  padding-left: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 0.9rem;
+}
+
