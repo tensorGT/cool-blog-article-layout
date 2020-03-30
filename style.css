@@ -125,3 +125,13 @@ body {
   font-size: 0.9rem;
 }
 
+.toc-box a {
+  color: #24201c;
+  text-decoration: none;
+}
+
+.toc-box a:hover,
+.toc-box a:focus {
+  color: #b45309;
+  text-decoration: underline;
+}
