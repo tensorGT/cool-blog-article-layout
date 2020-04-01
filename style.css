@@ -135,3 +135,13 @@ body {
   color: #b45309;
   text-decoration: underline;
 }
+
+/* main reading column */
+.article-body {
+  max-width: 66ch;
+}
+
+.article-body section {
+  margin-bottom: 42px;
+}
+
