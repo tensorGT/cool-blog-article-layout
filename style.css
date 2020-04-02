@@ -145,3 +145,13 @@ body {
   margin-bottom: 42px;
 }
 
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-size: clamp(1.35rem, 1.15rem + 0.9vw, 1.85rem);
+  line-height: 1.28;
+  color: #181410;
+  margin-bottom: 14px;
+  padding-top: 8px;
+}
+
+.article-body p {
