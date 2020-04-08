@@ -184,3 +184,13 @@ body {
 /* inline figures */
 .article-figure {
   margin: 32px 0;
+}
+
+.diagram-svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+  border: 1px solid #e6dfd5;
+}
+
