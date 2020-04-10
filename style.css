@@ -194,3 +194,13 @@ body {
   border: 1px solid #e6dfd5;
 }
 
+.article-figure figcaption {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.86rem;
+  color: #6b6257;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
+code {
+  font-family: Consolas, Monaco, monospace;
