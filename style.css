@@ -214,3 +214,13 @@ code {
   border-top: 1px solid #e6dfd5;
   text-align: center;
   padding: 28px 20px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  color: #786e63;
+}
+
+/* stack TOC above article on tablet & mobile */
+@media (max-width: 900px) {
+  .article-layout {
+    grid-template-columns: 1fr;
+    gap: 28px;
