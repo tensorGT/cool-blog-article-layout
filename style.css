@@ -224,3 +224,13 @@ code {
   .article-layout {
     grid-template-columns: 1fr;
     gap: 28px;
+  }
+
+  .toc-sidebar {
+    position: static;
+  }
+
+  .article-body {
+    margin: 0 auto;
+  }
+}

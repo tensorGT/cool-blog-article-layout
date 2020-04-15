@@ -7,3 +7,4 @@ Practicing magazine-style typography and layout with plain HTML and CSS.
 - Pull quotes with a left accent border
 - `<figure>` and `<figcaption>` for inline diagrams
 - Sticky table of contents sidebar on wide screens
+- Fluid font sizing using `clamp()`
